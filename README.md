@@ -1,5 +1,18 @@
 # EverestOS_Changelogs
 
+# EverestOS Version 1.1 - (Khumbu)
+
+## Khumbu
+
+-Khumbu is a region of northeastern Nepal on the Nepalese side of Mount Everest. It is part of the Solukhumbu District, which in turn is part of Koshi Pradesh. Khumbu is one of three subregions of the main Kirat Kulung and Sherpa settlement of the Himalaya, the other two being Solu and Pharak.
+
+## Changelogs:
+
+- Initial A14 QPR2 release
+- Merged April Security Patch
+- Added some basic customizations (More will come in upcoming update)
+- Some features are removed 
+
 # EverestOS Version 1.0 - Beta (Namche)
 
 ## Namche
