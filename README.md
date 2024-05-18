@@ -1,4 +1,38 @@
-# EverestOS_Changelogs
+# EverestOS Changelogs
+
+# EverestOS Version 1.2 - (Gokyo)
+
+## Gokyo
+
+- Gokyo Lake is a stunning turquoise lake nestled in the Himalayas of Nepal.
+
+## Changelogs:
+
+- Added A11 QS 
+- Added sound engine
+- Added Depth wallpaper 
+- Added Brightness slider Styles
+- Added status bar padding 
+- Added Background chip styles
+- Added lockscreen widgets
+- Added QS Header image customization 
+- Added weather settings in customization 
+- Added QS Tile layout 
+- Fixed network monitor
+- Fixed Smart pixel toggle which is disabling itself
+- Added Vibration and Haptics
+- Revamped some Statusbar things
+- Revamped Settings & about phone 
+- Added Everest launcher(launcher 3) as a optional 
+- Added intensity-based haptics for qs,brightness slider,volume panel, back gesture
+- Added less annoying notification
+- Added support for vanilla
+- Re-added fingerprint authentication vibration
+- Removed some unwanted overlays
+- Changed expandable volume panel implementation 
+- Added options for black theme
+- Added flashlight blink on incoming calls
+- Added Updater for official builds (only gapps for now)
 
 # EverestOS Version 1.1 - (Khumbu)
 
