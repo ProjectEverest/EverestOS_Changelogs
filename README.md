@@ -1,5 +1,27 @@
 # EverestOS Changelogs
 
+# EverestOS Version 1.3 - (Tenzing)
+
+## Tenzing
+
+- Tenzing Norgay Sherpa was a legendary mountaineer from Nepal, renowned for being one of the first two individuals to reach the summit of Mount Everest alongside Sir Edmund Hillary in 1953. His pioneering achievement marked a historic milestone in human exploration and mountaineering.
+
+## Changelogs:
+- July security patch based on QPR3
+- Brought back all features which were presented in Everest 1.2
+- Added optional support for Lawnchair
+- Fixed monet engine 
+- Added UI styles
+- Added Component spoofing to bypass app restrictions
+- Added Battery friendly pocket mode
+- Added pixel-framework support for pixel exclusive features
+- Brought back lockscreen media artwork (thanks to Minaripenguin)
+- Added option to hide screen capture status
+- And many under the hood changes and bug fixes are done
+
+### Removed Features
+- QS Styles
+
 # EverestOS Version 1.2 - (Gokyo)
 
 ## Gokyo
