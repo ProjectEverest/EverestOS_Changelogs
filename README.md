@@ -1,5 +1,18 @@
 # EverestOS Changelogs
 
+# EverestOS Version 1.6 - (Lukla)
+
+### What's new on EverestOS?
+
+- merged September SP
+- Add statusbar and QS header clock customizations (size and color)
+- Added contextual dashboard messages with toggle
+- Fixed backup and restore layout in Settings Homepage
+- Fixed bootanimation styles
+- Added three finger gesture action
+- Added sensor-block per-package
+- Fixed QS freeze in Iceland notification
+
 # EverestOS Version 1.5 - (Lukla)
 
 ## Lukla
